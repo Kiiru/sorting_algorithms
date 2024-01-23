@@ -30,6 +30,5 @@ void quick_sort(int *array, size_t size);
 int lomuto(int *a, int l, int h);
 void qs(int *a, int l, int h);
 void shell_sort(int *array, size_t size);
-void cocktail_sort_list(listint_t **list);
-void change_nodes(listint_t **list);
+
 #endif
